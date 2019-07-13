@@ -1,0 +1,16 @@
+D:\web\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\web\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\web\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\web\ConsoleApplication2\ConsoleApplication1\bin\Debug\Model.dll
+D:\web\ConsoleApplication2\ConsoleApplication1\bin\Debug\Model.pdb
+D:\web\ConsoleApplication2\ConsoleApplication1\obj\Debug\StoreManagement.csprojResolveAssemblyReference.cache
+D:\web\ConsoleApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\web\ConsoleApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\web\MinhTruongJuly13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\web\MinhTruongJuly13\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\web\MinhTruongJuly13\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\web\MinhTruongJuly13\ConsoleApplication1\obj\Debug\StoreManagement.csprojResolveAssemblyReference.cache
+D:\web\MinhTruongJuly13\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\web\MinhTruongJuly13\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\web\MinhTruongJuly13\ConsoleApplication1\bin\Debug\Model.dll
+D:\web\MinhTruongJuly13\ConsoleApplication1\bin\Debug\Model.pdb
